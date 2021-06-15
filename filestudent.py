@@ -1,0 +1,5 @@
+outfile =open('students.txt', 'w')
+outfile.write ('Phillip Locke\n')
+outfile.write ('David Beckett\n')
+outfile.write ('Edmund Burke\n')
+outfile.close()
